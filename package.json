@@ -1,0 +1,19 @@
+{
+  "name": "testterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntdog1541/testTerm.git"
+  },
+  "author": "David Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huntdog1541/testTerm/issues"
+  },
+  "homepage": "https://github.com/huntdog1541/testTerm#readme"
+}
